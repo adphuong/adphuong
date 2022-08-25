@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm April</h1>
+<h3 align="left">A UI designer currently pursuing a Bachelor's in Computer Science at OSU.</h3>
 
-<!--
-**adphuong/adphuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **building an NES**
+- 🌱 I’m currently learning **Android Development with CodePath**
+- 💬 Ask me about **why I decided to switch careers, anything!**
+- 😄 Pronouns: **she/her/they/them**
+- ⚡ Fun fact: **I have a growing collection of pocket knives**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.linkedin.com/in/aprilphuong/" target="_blank" rel="noreferrer noopener">![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
+
+
